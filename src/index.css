@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+body{
+    /* background-color: #eee; */
+    margin: 0;
+}
+.App{
+    margin: 50px;
+}
+
+@tailwind utilities;
